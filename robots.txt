@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://lubith.github.io/newsmarket/sitemap_index.xml
